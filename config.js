@@ -13,21 +13,21 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*уσυя ѕтαтυѕ ѕєєη ву яιкα χм∂ 🌷🤍*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "𝓶𝓪𝓭𝓾𝔀𝓪🌷🤍*",
 // set the auto reply massage on status reply  
 ANTI_LINK: process.env.ANTI_LINK || "false",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/7z5x3q.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/gbdewx.jpg",
 // add custom menu and mention reply image url
 WELCOME: process.env.WELCOME || "true",
 // make true if want welcome and goodbye message in groups 
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "𝑅𝐈𝜥𝐀 𝛸𝐌𝐃",
+BOT_NAME: process.env.BOT_NAME || "MADUV 𝛸𝐌𝐃",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "RIKA-XMD",
+STICKER_NAME: process.env.STICKER_NAME || "MADUV-XMD",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -37,11 +37,11 @@ DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "94787026652",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "𝑆𝐻𝜟𝐌𝐈𝜥𝐀 𝐷𝛯𝚴ꪊꪝ𝜟𝚴",
+OWNER_NAME: process.env.OWNER_NAME || "𝚖𝚊𝚍𝚞𝚠𝚊",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "> 𝛲𝛩ꪝ𝛯𝑅𝛯𝐷 𝛣𝑌 𝐶𝑌𝛣𝛯𝑅 𝑅𝐼𝜥𝜟𝐷𝛩",
+DESCRIPTION: process.env.DESCRIPTION || "> 𝛲𝛩ꪝ𝛯𝑅𝛯𝐷 𝛣𝑌 ᴍᴀᴅᴜᴠᴀ",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/tzo2xt.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/gbdewx.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> *ɾιƙα xɱԃ αʅιʋҽ ɳσɯ║👑🫦*",
 // add alive msg here 
